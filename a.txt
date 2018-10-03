@@ -4,4 +4,4 @@ c
 d
 f
 newfromb
-added new line from b
+added new line from a and b
