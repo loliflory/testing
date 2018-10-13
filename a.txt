@@ -4,3 +4,5 @@ c
 d
 j
 new in master from a
+newfromb
+added new line from a and b
